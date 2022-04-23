@@ -24,8 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot Desktop](.images/screenshot-desktop.png)
+![Screenshot Desktop](https://github.com/luenlun/frontendmentor-Order-summary-component/blob/main/images/screenshot-desktop.png?raw=true)
 ![Screenshot Mobile](.images/screenshot-mobile.png)
+
 
 ### Links
 
