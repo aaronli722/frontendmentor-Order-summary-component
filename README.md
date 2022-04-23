@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/luenlun/frontendmentor-Order-summary-component
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://luenlun.github.io/frontendmentor-Order-summary-component/
 
 ## My process
 
